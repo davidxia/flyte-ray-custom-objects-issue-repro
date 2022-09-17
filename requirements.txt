@@ -1,0 +1,2 @@
+flytekit==1.2.0b3
+flytekitplugins-ray==1.2.0b3
